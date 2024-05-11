@@ -1,0 +1,21 @@
+h1{ color: blue;}
+h2{ color: brown;}
+h3{ color: cadetblue;}
+h4{ color: chartreuse;}
+h5{ color: chocolate;}
+h6{ color: crimson;}
+.mysha{ background-color: bisque;border-width: 3px; border-style: solid;}
+.tree{ border: 3px dotted red;}
+.prag1{ margin-top: 50px; color: crimson; text-indent: 20px; border-width: 3px; border-style: dashed;
+ border-color: blue; letter-spacing: 1px; word-spacing: 2px; line-height: 20px;}
+ .fa-solid{font-size: 50px;}
+ .fa-brands{font-size: 50px;}
+ .fa-facebook{color: blue;}
+ .fa-youtube{color: red;}
+ .fa-linkedin{color: blue;}
+ .fa-phone{color: blue;}
+ .fa-location-dot{color: red;}
+ .fa-street-view{color: red;}
+ .fa-instagram{color: red;}
+.fa-user{color: blue;}
+.fa-github{color: black;}
